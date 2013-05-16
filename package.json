@@ -1,0 +1,20 @@
+{
+  "name": "ensemblRestFetch",
+  "version": "0.0.0",
+  "description": "## README - Creating a mongodb for storing fetched json from the Ensembl API.",
+  "main": "EnsemblRest.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "when": "~2.1.0",
+    "underscore": "~1.4.4"
+  }
+}
